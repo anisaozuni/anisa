@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Anisa Ozuni",
+        "age": "20",
+        "email": "anisaozuni121@gmail.com",
+        "phone": "03943857",
+        "street": "Arberia street",
+        "health": "no health problems",
+        "fitness": "pilates"
+    },
+    {
+        "name": "Silva Bicaku",
+        "age": "20",
+        "email": "silva21@gmail.com",
+        "phone": "4877777739480967",
+        "street": "Don Bosko street",
+        "health": "no health problems",
+        "fitness": "zumba"
+    },
+    {
+        "name": "Brijana Mekolli",
+        "age": "19",
+        "email": "bmekolli20@epoka.edu.al",
+        "phone": "7686909874",
+        "street": "Don Bosko street",
+        "health": "no health problems",
+        "fitness": "kickboxing"
+    },
+    {
+        "name": "Erjeta Kamolli",
+        "age": "20",
+        "email": "erjetakamolli@gmail.com",
+        "phone": "2984945",
+        "street": "Arberia street",
+        "health": "no health problems",
+        "fitness": "kickboxing"
+    },
+    {
+        "name": "Xhemile",
+        "age": "19",
+        "email": "xhemilehabili1@gmail.com",
+        "phone": "19738927",
+        "street": "Don Bosko",
+        "health": "no health problems",
+        "fitness": "zumba"
+    }
+]
